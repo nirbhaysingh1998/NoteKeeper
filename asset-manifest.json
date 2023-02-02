@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NoteKeeper/static/css/main.b2a696ca.css",
+    "main.js": "/NoteKeeper/static/js/main.0a1cd4f4.js",
+    "static/js/787.2da0d3ad.chunk.js": "/NoteKeeper/static/js/787.2da0d3ad.chunk.js",
+    "static/media/pin.svg": "/NoteKeeper/static/media/pin.f4922c86f99dd7ba7bc92444f4a5e148.svg",
+    "index.html": "/NoteKeeper/index.html",
+    "main.b2a696ca.css.map": "/NoteKeeper/static/css/main.b2a696ca.css.map",
+    "main.0a1cd4f4.js.map": "/NoteKeeper/static/js/main.0a1cd4f4.js.map",
+    "787.2da0d3ad.chunk.js.map": "/NoteKeeper/static/js/787.2da0d3ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a696ca.css",
+    "static/js/main.0a1cd4f4.js"
+  ]
+}
